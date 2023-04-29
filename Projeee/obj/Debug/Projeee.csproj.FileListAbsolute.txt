@@ -1,0 +1,19 @@
+C:\Users\dinoc\source\repos\Projeee\Projeee\bin\Debug\Projeee.exe.config
+C:\Users\dinoc\source\repos\Projeee\Projeee\bin\Debug\Projeee.exe
+C:\Users\dinoc\source\repos\Projeee\Projeee\bin\Debug\Projeee.pdb
+C:\Users\dinoc\source\repos\Projeee\Projeee\obj\Debug\Projeee.csprojAssemblyReference.cache
+C:\Users\dinoc\source\repos\Projeee\Projeee\obj\Debug\Projeee.Form1.resources
+C:\Users\dinoc\source\repos\Projeee\Projeee\obj\Debug\Projeee.Properties.Resources.resources
+C:\Users\dinoc\source\repos\Projeee\Projeee\obj\Debug\Projeee.csproj.GenerateResource.cache
+C:\Users\dinoc\source\repos\Projeee\Projeee\obj\Debug\Projeee.exe
+C:\Users\dinoc\source\repos\Projeee\Projeee\obj\Debug\Projeee.pdb
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\obj\Debug\Projeee.exe
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\obj\Debug\Projeee.pdb
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\bin\Debug\Projeee.exe.config
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\bin\Debug\Projeee.exe
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\bin\Debug\Projeee.pdb
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\obj\Debug\Projeee.csproj.AssemblyReference.cache
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\obj\Debug\Projeee.Form1.resources
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\obj\Debug\Projeee.Properties.Resources.resources
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\obj\Debug\Projeee.csproj.GenerateResource.cache
+C:\Users\Dincer\Desktop\Yeni klasör\filaş\Projeee\Projeee\obj\Debug\Projeee.csproj.CoreCompileInputs.cache
